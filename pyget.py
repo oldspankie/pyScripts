@@ -3,11 +3,11 @@ import urllib.request
 #import datetime
 
 if not sys.argv.__len__() > 1:
-    print("py3get 0.2")
+    print("py3get 0.2 - cgriffith")
     print("pyget <url> [saveas]")
     print()
-    print("url - required")
-    print("saveas - optional")
+    print("url - url to download from <req>")
+    print("saveas - save download as [optional]")
 else:
     arg1=sys.argv[1]
     if not sys.argv.__len__() > 2:

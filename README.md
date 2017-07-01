@@ -1,7 +1,6 @@
-Misc Python Scripts
-
-Universal Implementations
-
-pyget - wget implementation using python (2.7)
-
-pygrep - grep implementation using python (2.7)
+Misc Python Scripts (Python 3)
+<br>
+<br>Universal Implementations
+<br>
+<br>pyget - py implementation of wget
+<br>pygrep - py implementation of grep

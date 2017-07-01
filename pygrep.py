@@ -1,9 +1,11 @@
 import sys
 
 if not sys.argv.__len__() > 2:
-    print "pygrep <file> <string>"
-    print "<file> - file to search"
-    print "<string> - string to search for"
+    print("py3grep 0.2")
+    print("pygrep <file> <string>")
+    print()
+    print("<file> - file to search")
+    print("<string> - string to search for")
 else:
     arg1=sys.argv[1]
     arg2=sys.argv[2]
